@@ -5,11 +5,6 @@
  */
 package com.javanunes.Ferra;
 
-
-/**
- *
- * @author ricardo
- */
 public class Controller {
 
      public static void executa(String comando, boolean terminal, boolean fazLogs){
